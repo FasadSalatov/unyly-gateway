@@ -1,6 +1,6 @@
 # Unyly Gateway
 
-**One MCP connector for the whole catalog — 15,000+ servers plus your team's private MCPs — from any AI client.**
+**One MCP connector for the whole catalog — 80,000+ servers plus your team's private MCPs — from any AI client.**
 
 [![Website](https://img.shields.io/badge/website-unyly.org-e5199a)](https://unyly.org)
 [![Smithery](https://img.shields.io/badge/Smithery-unyly%2Fgateway-orange)](https://smithery.ai/servers/unyly/gateway)
@@ -26,7 +26,7 @@ The gateway exposes three meta-tools. Servers you or your team pin are also expo
 
 | Tool | What it does |
 |------|--------------|
-| `search_mcps` | Find a server in the 15,000+ catalog by task, name or category |
+| `search_mcps` | Find a server in the 80,000+ catalog by task, name or category |
 | `list_mcp_tools` | Inspect a server's tools before calling |
 | `use_mcp_tool` | Call any tool on any server in the catalog |
 
@@ -34,7 +34,7 @@ The AI searches for the capability it needs, inspects the server, and calls the 
 
 ## Why a gateway instead of per-server installs
 
-- **One connection, whole catalog** — 15,000+ servers reachable without installing any of them locally.
+- **One connection, whole catalog** — 80,000+ servers reachable without installing any of them locally.
 - **Works where local servers can't** — ChatGPT, claude.ai and mobile clients can't spawn a local process; a remote gateway works everywhere.
 - **Team-ready** — shared allow-lists, per-member spend caps, a log of every call, private company servers hidden from the public catalog.
 - **No secrets in chat** — OAuth sign-in, tokens revoked in one click, role-based access.
